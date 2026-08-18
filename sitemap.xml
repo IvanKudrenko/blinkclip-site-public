@@ -11,6 +11,7 @@
   <url><loc>https://blinkclip.baproj.com/changelog/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/trim/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/docs/quick-crop/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/convert/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/compress/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/resolution/</loc></url>
@@ -18,13 +19,20 @@
   <url><loc>https://blinkclip.baproj.com/docs/add-intro/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/extract-audio/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/add-audio/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/docs/replace-audio/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/docs/remove-audio/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/overlay/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/docs/insert/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/docs/join/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/workflows/</loc></url>
   <url><loc>https://blinkclip.baproj.com/docs/still-trim/</loc></url>
   <url><loc>https://blinkclip.baproj.com/guides/</loc></url>
   <url><loc>https://blinkclip.baproj.com/guides/batch-trim-videos-mac/</loc></url>
   <url><loc>https://blinkclip.baproj.com/guides/batch-convert-videos-mac/</loc></url>
   <url><loc>https://blinkclip.baproj.com/guides/compress-multiple-videos-mac/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/guides/crop-multiple-videos-at-once/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/guides/add-intro-outro-multiple-videos/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/guides/remove-frozen-endings-videos/</loc></url>
   <url><loc>https://blinkclip.baproj.com/roadmap/</loc></url>
   <url><loc>https://blinkclip.baproj.com/privacy/</loc></url>
   <url><loc>https://blinkclip.baproj.com/terms/</loc></url>
