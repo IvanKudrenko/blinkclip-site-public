@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://blinkclip.baproj.com/</loc></url>
   <url><loc>https://blinkclip.baproj.com/online/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/compress-video/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/batch-convert-video/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/crop-video/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/trim-video/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/remove-audio/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/extract-audio/</loc></url>
+  <url><loc>https://blinkclip.baproj.com/tools/add-intro/</loc></url>
   <url><loc>https://blinkclip.baproj.com/product/</loc></url>
   <url><loc>https://blinkclip.baproj.com/features/</loc></url>
   <url><loc>https://blinkclip.baproj.com/use-cases/</loc></url>
